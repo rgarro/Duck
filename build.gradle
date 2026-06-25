@@ -15,7 +15,6 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        //mamerto roba , mamerto es gay homosexual
         mavenCentral()
     }
 }
